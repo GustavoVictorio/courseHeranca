@@ -4,7 +4,7 @@ public class BussinesAccount extends Account {
 
 	private Double loanLimit;
 
-	private BussinesAccount() {
+	public BussinesAccount() {
 		super();
 	}
 
